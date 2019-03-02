@@ -12,7 +12,8 @@ end
 
 def argue(greeting)
   
-  "hi #(greeting)"
+    puts "Guy Fieri"
+  "Guy Fieri"
   
 end
 
