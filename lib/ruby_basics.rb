@@ -10,7 +10,7 @@ def assign_variable(value = "bob")
   
 end
 
-def argue
+def argue(greeting)
   
   puts "talk to me"
   
