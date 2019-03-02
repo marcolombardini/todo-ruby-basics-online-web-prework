@@ -1,16 +1,24 @@
-def division(num1, num2)
- 
+def division(num1 = (42), num2 = (7))
+  
+  sum = num1 / num2
+  
+sum
 end
 
-def assign_variable(value)
+def assign_variable(value = "bob")
+  value
   
 end
 
 def argue
   
+  puts "talk to me"
+  
 end
 
-def greeting
+def greeting(greeting, name)
+  
+  "#{greeting} #{name}"
 
 end
 
