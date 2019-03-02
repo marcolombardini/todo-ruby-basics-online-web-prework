@@ -12,7 +12,7 @@ end
 
 def argue(greeting)
   
-    puts "I'm right and you are wrong!"
+  puts "I'm right and you are wrong!"
   "I'm right and you are wrong!"
   
 end
