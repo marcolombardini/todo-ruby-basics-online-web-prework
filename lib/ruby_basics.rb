@@ -24,7 +24,8 @@ end
 
 def return_a_value
   
-  "nice"
+  put "nice"
+  nice
 
 end
 
