@@ -12,7 +12,7 @@ end
 
 def argue(greeting)
   
-  puts "talk to me"
+  "#(greeting)"
   
 end
 
