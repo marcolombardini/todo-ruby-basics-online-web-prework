@@ -12,7 +12,7 @@ end
 
 def argue(greeting)
   
-  
+  puts = "hi"
   
 end
 
