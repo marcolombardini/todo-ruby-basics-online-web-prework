@@ -12,8 +12,8 @@ end
 
 def argue(greeting)
   
-    puts "Guy Fieri"
-  "Guy Fieri"
+    puts "I'm right and you are wrong!"
+  "I'm right and you are wrong!"
   
 end
 
