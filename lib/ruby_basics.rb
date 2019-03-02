@@ -25,14 +25,15 @@ end
 
 def return_a_value
   
-  put "Nice"
+  puts "Nice"
   "Nice"
 
 end
 
 def last_evaluated_value
   
-  
+  puts "novice"
+  puts "expert"
 
 end
 
