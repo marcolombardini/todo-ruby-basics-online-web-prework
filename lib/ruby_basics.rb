@@ -38,6 +38,7 @@ end
 
 def pizza_party(cheese = "cheese", pepperoni = "pepperoni")
   
-  "#(cheese)" "#(pepperoni)"
+  cheese 
+  pepperoni
 
 end
