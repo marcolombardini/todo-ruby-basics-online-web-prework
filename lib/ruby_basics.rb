@@ -34,6 +34,7 @@ def last_evaluated_value
   
   puts "novice"
   puts "expert"
+  print "expert"
 
 end
 
